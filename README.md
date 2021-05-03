@@ -28,10 +28,12 @@ You can include literal backticks like `` `this` ``.
 ==highlight==
 
 <dl>
-  <dt><code><span style="color: red;">Definition list</span></code></dt>
-  <dd><small><i>Is something people use sometimes.</i></small></dd>
+  <dt>1. <code>git init</span></code></dt>
+  <dd><small><i>initialize git for your project (only first time).</i></small></dd>
+</dl>
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+<dl>
+  <dt>2. <code>git config</span></code></dt>
+  <dd><small><i>showing the configuration & all avaliable syntax.</i></small></dd>
 </dl>
 
