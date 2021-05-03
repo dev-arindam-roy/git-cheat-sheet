@@ -7,26 +7,6 @@
 `git --version`
 ## GIT Commands and Descriptions are Listed Below
 
-+ **1.** `git init`  
-*initialize git for your project (only first time).*
-
-**2.** `git config`  
-*showing the configuration & all avaliable syntax.*
-
-**3.** `git config --list`  
-: *showing the global configurations for your project.*
-
-*4.* `git config --global user.name <name>`  
-: *Define the author name to be used for all commits by the current user. Set the name that will be attached to your commits and tags.*
-
-**5.** `git config --global user.email <email>`  
-: *Define the author email to be used for all commits by the current user. Set the e-mail address that will be attached to your commits and tags.*
-
-`<code>` spans are delimited by backticks.
-You can include literal backticks like `` `this` ``.
-
-==highlight==
-
 <dl>
   <dt>1. <code>git init</span></code></dt>
   <dd><small><i>initialize git for your project (only first time).</i></small></dd>
@@ -35,5 +15,20 @@ You can include literal backticks like `` `this` ``.
 <dl>
   <dt>2. <code>git config</span></code></dt>
   <dd><small><i>showing the configuration & all avaliable syntax.</i></small></dd>
+</dl>
+
+<dl>
+  <dt>3. <code>git config --list</span></code></dt>
+  <dd><small><i>showing the global configurations for your project.</i></small></dd>
+</dl>
+
+<dl>
+  <dt>4. <code>git config --global user.name <name></span></code></dt>
+  <dd><small><i>Define the author name to be used for all commits by the current user. Set the name that will be attached to your commits and tags.</i></small></dd>
+</dl>
+
+<dl>
+  <dt>5. <code>git config --global user.email <email></span></code></dt>
+  <dd><small><i>Define the author email to be used for all commits by the current user. Set the e-mail address that will be attached to your commits and tags.</i></small></dd>
 </dl>
 
