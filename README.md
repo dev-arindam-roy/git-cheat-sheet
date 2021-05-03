@@ -121,7 +121,7 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
 </dl>
 
 <dl>
-  <dt>20 <code>...</span></code></dt>
-  <dd><small><i>....</i></small><dd>
+  <dt>20 <code>git branch -d 'YOUR_EXISTING_BRANCH_NAME'</span></code></dt>
+  <dd><small><i>Delete any branch.</i></small><dd>
 </dl>
 
