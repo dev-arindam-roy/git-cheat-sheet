@@ -161,3 +161,13 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
   <dd><small><i>List all tags.</i></small><dd>
 </dl>
 
+<dl>
+  <dt>26. <code>git tag 'NEW_TAG_NAME'</span></code></dt>
+  <dd><small><i>Create new tag.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>27. <code>git push origin 'YOUR_BRANCH_NAME' --tags</span></code></dt>
+  <dd><small><i>Commit with tag.</i></small><dd>
+</dl>
+
