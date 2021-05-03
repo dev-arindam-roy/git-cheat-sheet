@@ -172,13 +172,13 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
 </dl>
 
 <dl>
-  <dt>28. <code>git push origin 'YOUR_BRANCH_NAME' : 'TAG_NAME'</span></code></dt>
-  <dd><small><i>Push into a tag</i></small><dd>
+  <dt>28. <code>git show 'TAG_NAME'</span></code></dt>
+  <dd><small><i>Show changes/difference for the tag</i></small><dd>
 </dl>
 
 <dl>
-  <dt>29. <code>git push origin 'YOUR_BRANCH_NAME' --tags : 'TAG_NAME'</span></code></dt>
-  <dd><small><i>Push into a tag (Alternative way)</i></small><dd>
+  <dt>29. <code>git push origin 'TAG_NAME'</span></code></dt>
+  <dd><small><i>Push into a tag</i></small><dd>
 </dl>
 
 <dl>
@@ -190,5 +190,4 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
   <dt>31. <code>git push --delete origin 'TAG_NAME'</span></code></dt>
   <dd><small><i>Delete a tag from git.</i></small><dd>
 </dl>
-...
 
