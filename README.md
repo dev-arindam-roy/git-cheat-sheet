@@ -161,7 +161,3 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
   <dd><small><i>--</i></small><dd>
 </dl>
 
-<dl>
-  <dt>26. <code>--</span></code></dt>
-  <dd><small><i>--</i></small><dd>
-</dl>
