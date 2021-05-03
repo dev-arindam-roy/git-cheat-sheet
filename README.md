@@ -49,3 +49,17 @@
   <dd><small><i>Open the global configuration file in a text editor for manual editing.</i></small><dd>
 </dl>
 
+> **Git Clone a Repo**
+
+<dl>
+  <dt>9. <code>git clone 'REPO_URL'</span></code></dt>
+  <dd><small><i>Clone repo located at <code>'REPO_URL'</code> onto local machine. Original repo can be
+located on the local filesystem or on a remote machine via HTTP or SSH.Downloads a project with the entire history from the remote repository.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>10. <code>git clone -c http.sslverify=false 'REPO_URL'</span></code></dt>
+  <dd><small><i>Clone repo located at <code>'REPO_URL'</code> onto local machine. Original repo can be
+located on the local filesystem or on a remote machine via HTTP or SSH.Downloads a project with the entire history from the remote repository.</i></small><dd>
+</dl>
+
