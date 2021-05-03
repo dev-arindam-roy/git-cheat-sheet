@@ -7,8 +7,8 @@
 `git --version`
 ## GIT Commands and Descriptions are Listed Below
 
-**1.** `git init`  
-...initialize git for your project (only first time).*
++ **1.** `git init`  
+*initialize git for your project (only first time).*
 
 **2.** `git config`  
 *showing the configuration & all avaliable syntax.*
