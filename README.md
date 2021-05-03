@@ -28,7 +28,7 @@ You can include literal backticks like `` `this` ``.
 ==highlight==
 
 <dl>
-  <dt>Definition list</dt>
+  <dt><code>Definition list</code></dt>
   <dd>Is something people use sometimes.</dd>
 
   <dt>Markdown in HTML</dt>
