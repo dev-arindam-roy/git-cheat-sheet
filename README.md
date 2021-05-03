@@ -178,6 +178,6 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
 
 <dl>
   <dt>29. <code>git tag -d 'TAG_NAME'</span></code></dt>
-  <dd><small><i>Delete a tag from local</i></small><dd>
+  <dd><small><i>Delete a tag from local.</i></small><dd>
 </dl>
 
