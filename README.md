@@ -157,7 +157,7 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
 ---
 
 <dl>
-  <dt>25. <code>--</span></code></dt>
-  <dd><small><i>--</i></small><dd>
+  <dt>25. <code>git tag</span></code></dt>
+  <dd><small><i>List all tags.</i></small><dd>
 </dl>
 
