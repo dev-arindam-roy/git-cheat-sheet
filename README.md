@@ -29,7 +29,7 @@ You can include literal backticks like `` `this` ``.
 
 <dl>
   <dt><code>Definition list</code></dt>
-  <dd>Is something people use sometimes.</dd>
+  <dd><small><i>Is something people use sometimes.</i></small></dd>
 
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
