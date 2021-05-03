@@ -7,7 +7,8 @@
 `git --version`
 ## GIT Commands and Descriptions are Listed Below
 
-> **Git Setup and Configuration**
+> **GIT SETUP AND CONFIGURATION**
+---
 
 <dl>
   <dt>1. <code>git init</span></code></dt>
@@ -49,7 +50,8 @@
   <dd><small><i>Open the global configuration file in a text editor for manual editing.</i></small><dd>
 </dl>
 
-> **Git Clone a Repo**
+> **GIT CLONE A REPO**
+---
 
 <dl>
   <dt>9. <code>git clone 'REPO_URL'</span></code></dt>
@@ -63,7 +65,8 @@ located on the local filesystem or on a remote machine via HTTP or SSH.Downloads
 located on the local filesystem or on a remote machine via HTTP or SSH.Downloads a project with the entire history from the remote repository.</i></small><dd>
 </dl>
 
-> **Git Add Files**
+> **GIT ADD FILES**
+---
 
 <dl>
   <dt>10. <code>git add .</span></code></dt>
@@ -85,7 +88,8 @@ located on the local filesystem or on a remote machine via HTTP or SSH.Downloads
   <dd><small><i>Show git tree status. List which files are staged, unstaged, and untracked. show modified files in working directory, staged for your next commit.</i></small><dd>
 </dl>
 
-> **Commits**
+> **GIT COMMIT**
+---
 
 <dl>
   <dt>14. <code>git commit -m 'YOUR_COMMIT_MSG'</span></code></dt>
@@ -93,7 +97,8 @@ located on the local filesystem or on a remote machine via HTTP or SSH.Downloads
 a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></small><dd>
 </dl>
 
-> **Branches**
+> **GIT BRANCH**
+---
 
 <dl>
   <dt>15. <code>git branch 'BRANCH_NAME'</span></code></dt>
@@ -136,3 +141,4 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
 </dl>
 
 > **GIT DIFF**
+---
