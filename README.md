@@ -172,7 +172,7 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
 </dl>
 
 <dl>
-  <dt>28. <code>--</span></code></dt>
-  <dd><small><i>---</i></small><dd>
+  <dt>28. <code>git push origin 'YOUR_BRANCH_NAME' : 'TAG_NAME'</span></code></dt>
+  <dd><small><i>Push with tag in a single command</i></small><dd>
 </dl>
 
