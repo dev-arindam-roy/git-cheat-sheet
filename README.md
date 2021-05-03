@@ -130,3 +130,8 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
   <dd><small><i>Forcefully delete any branch from your local.</i></small><dd>
 </dl>
 
+<dl>
+  <dt>22. <code>git merge 'YOUR_OTHER_EXISTING_BRANCH_NAME'</span></code></dt>
+  <dd><small><i>Current branch merge with other existing branch.</i></small><dd>
+</dl>
+
