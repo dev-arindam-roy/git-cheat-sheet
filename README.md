@@ -22,3 +22,6 @@
 **5.** `git config --global user.email <email>`
 : *Define the author email to be used for all commits by the current user. Set the e-mail address that will be attached to your commits and tags.*
 
+`<code>` spans are delimited by backticks.
+You can include literal backticks like `` `this` ``.
+
