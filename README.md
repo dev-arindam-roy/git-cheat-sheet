@@ -23,12 +23,12 @@
 </dl>
 
 <dl>
-  <dt>4. <code>git config --global user.name <name></span></code></dt>
+  <dt>4. <code>git config --global user.name 'YOUR_NAME'</span></code></dt>
   <dd><small><i>Define the author name to be used for all commits by the current user. Set the name that will be attached to your commits and tags.</i></small></dd>
 </dl>
 
 <dl>
-  <dt>5. <code>git config --global user.email <email></span></code></dt>
+  <dt>5. <code>git config --global user.email 'YOUR_EMAIL'</span></code></dt>
   <dd><small><i>Define the author email to be used for all commits by the current user. Set the e-mail address that will be attached to your commits and tags.</i></small></dd>
 </dl>
 
