@@ -152,3 +152,6 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
   <dt>24. <code>git diff 'BRANCH_NAME_1, BRANCH_NAME_2'</span></code></dt>
   <dd><small><i>Showing difference between branches.</i></small><dd>
 </dl>
+
+> **GIT TAG**
+---
