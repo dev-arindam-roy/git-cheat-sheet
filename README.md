@@ -25,5 +25,5 @@
 `<code>` spans are delimited by backticks.
 You can include literal backticks like `` `this` ``.
 
-In his beard lived three <span style="color:red">cardinals</span>.
+==highlight==
 
