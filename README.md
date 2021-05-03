@@ -191,3 +191,6 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
   <dd><small><i>Delete a tag from git.</i></small><dd>
 </dl>
 
+> **GIT LOGS**
+---
+
