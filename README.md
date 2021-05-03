@@ -6,7 +6,9 @@
 **After Install, Open CMD & Check The Git Version By Below Command**
 `git --version`
 
-|:GIT Commands and Descriptions are Listed Below|
+## GIT Commands and Descriptions are Listed Below
+
+||
 |-----------------------------------------------------------------------|
 |1. `git init`|
 |initialize git for your project (only first time)|
