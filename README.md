@@ -63,3 +63,26 @@ located on the local filesystem or on a remote machine via HTTP or SSH.Downloads
 located on the local filesystem or on a remote machine via HTTP or SSH.Downloads a project with the entire history from the remote repository.</i></small><dd>
 </dl>
 
+> **Git Add Files**
+
+<dl>
+  <dt>10. <code>git add .</span></code></dt>
+  <dd><small><i>Add all modified files to commit.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>11. <code>git add 'ANY_PARTICULAR_FILE_NAME'</span></code></dt>
+  <dd><small><i>Add any particular modified file to commit.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>12 <code>git add *.txt</span></code></dt>
+  <dd><small><i>Add all .txt modified files to commit.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>13 <code>git status</span></code></dt>
+  <dd><small><i>Show git tree status. List which files are staged, unstaged, and untracked. show modified files in working directory, staged for your next commit.</i></small><dd>
+</dl>
+
+
