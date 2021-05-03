@@ -136,7 +136,12 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
 </dl>
 
 <dl>
-  <dt>22. <code>git merge 'YOUR_OTHER_EXISTING_BRANCH_NAME'</span></code></dt>
+  <dt>22. <code>git push origin --delete 'YOUR_EXISTING_BRANCH_NAME'</span></code></dt>
+  <dd><small><i>Delete any branch from your git.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>23. <code>git merge 'YOUR_OTHER_EXISTING_BRANCH_NAME'</span></code></dt>
   <dd><small><i>Current branch merge with other existing branch.</i></small><dd>
 </dl>
 
@@ -144,12 +149,12 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
 ---
 
 <dl>
-  <dt>23. <code>git diff 'FILE_NAME'</span></code></dt>
+  <dt>24. <code>git diff 'FILE_NAME'</span></code></dt>
   <dd><small><i>Difference of what is changed but not staged.</i></small><dd>
 </dl>
 
 <dl>
-  <dt>24. <code>git diff 'BRANCH_NAME_1, BRANCH_NAME_2'</span></code></dt>
+  <dt>25. <code>git diff 'BRANCH_NAME_1, BRANCH_NAME_2'</span></code></dt>
   <dd><small><i>Showing difference between branches.</i></small><dd>
 </dl>
 
@@ -157,37 +162,37 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
 ---
 
 <dl>
-  <dt>25. <code>git tag</span></code></dt>
+  <dt>26. <code>git tag</span></code></dt>
   <dd><small><i>List all tags.</i></small><dd>
 </dl>
 
 <dl>
-  <dt>26. <code>git tag 'NEW_TAG_NAME'</span></code></dt>
+  <dt>27. <code>git tag 'NEW_TAG_NAME'</span></code></dt>
   <dd><small><i>Create new tag.</i></small><dd>
 </dl>
 
 <dl>
-  <dt>27. <code>git push origin 'YOUR_BRANCH_NAME' --tags</span></code></dt>
+  <dt>28. <code>git push origin 'YOUR_BRANCH_NAME' --tags</span></code></dt>
   <dd><small><i>Commit with tag.</i></small><dd>
 </dl>
 
 <dl>
-  <dt>28. <code>git show 'TAG_NAME'</span></code></dt>
+  <dt>29. <code>git show 'TAG_NAME'</span></code></dt>
   <dd><small><i>Show changes/difference for the tag</i></small><dd>
 </dl>
 
 <dl>
-  <dt>29. <code>git push origin 'TAG_NAME'</span></code></dt>
+  <dt>30. <code>git push origin 'TAG_NAME'</span></code></dt>
   <dd><small><i>Push into a tag</i></small><dd>
 </dl>
 
 <dl>
-  <dt>30. <code>git tag -d 'TAG_NAME'</span></code></dt>
+  <dt>31. <code>git tag -d 'TAG_NAME'</span></code></dt>
   <dd><small><i>Delete a tag from local.</i></small><dd>
 </dl>
 
 <dl>
-  <dt>31. <code>git push --delete origin 'TAG_NAME'</span></code></dt>
+  <dt>32. <code>git push --delete origin 'TAG_NAME'</span></code></dt>
   <dd><small><i>Delete a tag from git.</i></small><dd>
 </dl>
 
