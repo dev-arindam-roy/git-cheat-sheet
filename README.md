@@ -76,13 +76,21 @@ located on the local filesystem or on a remote machine via HTTP or SSH.Downloads
 </dl>
 
 <dl>
-  <dt>12 <code>git add *.txt</span></code></dt>
+  <dt>12. <code>git add *.txt</span></code></dt>
   <dd><small><i>Add all .txt modified files to commit.</i></small><dd>
 </dl>
 
 <dl>
-  <dt>13 <code>git status</span></code></dt>
+  <dt>13. <code>git status</span></code></dt>
   <dd><small><i>Show git tree status. List which files are staged, unstaged, and untracked. show modified files in working directory, staged for your next commit.</i></small><dd>
+</dl>
+
+> **Commits**
+
+<dl>
+  <dt>14. <code>git commit -m 'YOUR_COMMIT_MSG'</span></code></dt>
+  <dd><small><i>Commit the staged snapshot, but instead of launching
+a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></small><dd>
 </dl>
 
 
