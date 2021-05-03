@@ -190,4 +190,5 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
   <dt>31. <code>git push --delete origin 'TAG_NAME'</span></code></dt>
   <dd><small><i>Delete a tag from git.</i></small><dd>
 </dl>
+..
 
