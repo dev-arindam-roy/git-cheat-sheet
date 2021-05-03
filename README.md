@@ -135,3 +135,4 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
   <dd><small><i>Current branch merge with other existing branch.</i></small><dd>
 </dl>
 
+> **GIT DIFF**
