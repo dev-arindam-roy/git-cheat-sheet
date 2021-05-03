@@ -116,7 +116,7 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
 </dl>
 
 <dl>
-  <dt>1. <code>git checkout -b 'BRANCH_NAME'</span></code></dt>
+  <dt>19. <code>git checkout -b 'BRANCH_NAME'</span></code></dt>
   <dd><small><i>Create and check out a new branch.</i></small><dd>
 </dl>
 
