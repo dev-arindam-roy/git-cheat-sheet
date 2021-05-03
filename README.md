@@ -93,4 +93,31 @@ located on the local filesystem or on a remote machine via HTTP or SSH.Downloads
 a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></small><dd>
 </dl>
 
+> **Branches**
+
+<dl>
+  <dt>15. <code>git branch 'BRANCH_NAME'</span></code></dt>
+  <dd><small><i>Create a new branch for your project</i></small><dd>
+</dl>
+
+<dl>
+  <dt>16. <code>git branch</span></code></dt>
+  <dd><small><i>Showing all your working branches</i></small><dd>
+</dl>
+
+<dl>
+  <dt>17. <code>git branch --all</span></code></dt>
+  <dd><small><i>Showing all avaliable branches in the project</i></small><dd>
+</dl>
+
+<dl>
+  <dt>18. <code>git checkout 'YOUR_EXISTING_BRANCH_NAME'</span></code></dt>
+  <dd><small><i>Switch working directory to the specified branch.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>19. <code>git checkout -b 'BRANCH_NAME'</span></code></dt>
+  <dd><small><i>Create and check out a new branch.</i></small><dd>
+</dl>
+
 
