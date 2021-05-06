@@ -360,3 +360,9 @@ msgs. --decorate adds names of branches or tags of commit.</i></small><dd>
   <dt>59. <code>git mv 'EXISTING_PATH' 'NEW_PATH'</span></code></dt>
   <dd><small><i>Change an existing file path and stage the move.</i></small><dd>
 </dl>
+
+> **GIT RESET & REVERT**
+---
+
+> **GIT STASH**
+---
