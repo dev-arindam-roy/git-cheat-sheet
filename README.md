@@ -229,6 +229,88 @@ a text editor, use <code>'YOUR_COMMIT_MSG'</code> as the commit message..</i></s
 > **GIT LOGS**
 ---
 <dl>
-  <dt>36. <code>--</span></code></dt>
-  <dd><small><i>--</i></small><dd>
+  <dt>36. <code>git log</span></code></dt>
+  <dd><small><i>Show all commits in the current branch’s history.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>37. <code>git log -'NO_OF_LOGS'</span></code></dt>
+  <dd><small><i>Show that no. of logs commits in the current branch’s history, ex: git log -3</i></small><dd>
+</dl>
+
+<dl>
+  <dt>38. <code>git log --oneline</span></code></dt>
+  <dd><small><i>Show all commits in the current branch’s history in one single line, more clear view.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>39. <code>git log --oneline -'NO_OF_LOGS'</span></code></dt>
+  <dd><small><i>Show that no. of logs commits in the current branch’s history in one single line, more clear view, ex: git log --oneline -3</i></small><dd>
+</dl>
+
+<dl>
+  <dt>40. <code>git log -p</span></code></dt>
+  <dd><small><i>Display the full diff of each commit.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>40. <code>git log -p -'NO_OF_LOGS'</span></code></dt>
+  <dd><small><i>Display the full diff of no. of commits that you want. ex: git log -p -3.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>41. <code>git log -p 'FILE_NAME'</span></code></dt>
+  <dd><small><i>Show changes over time for a specific file.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>42. <code>git log --stat</span></code></dt>
+  <dd><small><i>Include which files were altered and the relative number of
+lines that were added or deleted from each of them.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>43. <code>git reflog</span></code></dt>
+  <dd><small><i>List operations (e.g. checkouts or commits) made on local repository.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>44. <code>git log --author='AUTHOR_NAME'</span></code></dt>
+  <dd><small><i>Search for commits by a particular author</i></small><dd>
+</dl>
+
+<dl>
+  <dt>45. <code>git log --grep='COMMIT_MSG'</span></code></dt>
+  <dd><small><i>Search for commits with a commit message that matches parttern.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>46. <code>git log --graph --decorate</span></code></dt>
+  <dd><small><i>--graph flag draws a text based graph of commits on left side of commit
+msgs. --decorate adds names of branches or tags of commit.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>47. <code>git log --oneline --graph --decorate</span></code></dt>
+  <dd><small><i>An overview with reference labels and history graph. One commit per line.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>48. <code>git blame 'FILE_NAME'</span></code></dt>
+  <dd><small><i>Who change - what, when for the file.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>49. <code>git blame 'FILE_NAME'</span></code></dt>
+  <dd><small><i>Who change - what, when for the file.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>50. <code>git log 'branchB' 'branchA'</span></code></dt>
+  <dd><small><i>show the commits on branchA that are not on branchB.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>51. <code>git log --follow 'FILE_NAME'</span></code></dt>
+  <dd><small><i>show the commits that changed file, even across renames.</i></small><dd>
 </dl>
