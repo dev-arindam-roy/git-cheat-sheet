@@ -314,3 +314,6 @@ msgs. --decorate adds names of branches or tags of commit.</i></small><dd>
   <dt>51. <code>git log --follow 'FILE_NAME'</span></code></dt>
   <dd><small><i>show the commits that changed file, even across renames.</i></small><dd>
 </dl>
+
+> **GIT RESET**
+---
