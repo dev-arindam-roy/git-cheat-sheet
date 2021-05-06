@@ -312,8 +312,38 @@ msgs. --decorate adds names of branches or tags of commit.</i></small><dd>
 
 <dl>
   <dt>51. <code>git log --follow 'FILE_NAME'</span></code></dt>
-  <dd><small><i>show the commits that changed file, even across renames.</i></small><dd>
+  <dd><small><i>Show the commits that changed file, even across renames.</i></small><dd>
 </dl>
 
-> **GIT RESET**
+> **GIT REMOTE**
 ---
+
+<dl>
+  <dt>52. <code>git remote</span></code></dt>
+  <dd><small><i>Show current remote name.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>53. <code>git remote -v</span></code></dt>
+  <dd><small><i>Show current remote name with remote url.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>54. <code>git remote show 'REMOTE_NAME'</span></code></dt>
+  <dd><small><i>Show all information about the remote.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>55. <code>git remote add 'REMOTE_NAME' 'YOUR-REPO-URL'</span></code></dt>
+  <dd><small><i>Add a repo with name. ex: git remote add origin 'YOUR-REPO-URL'</i></small><dd>
+</dl>
+
+<dl>
+  <dt>56. <code>git fetch 'REMOTE_NAME'</span></code></dt>
+  <dd><small><i>Download all chnages from remote but not merge with head.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>57. <code>git pull 'REMOTE_NAME' 'BRANCH_NAME'</span></code></dt>
+  <dd><small><i>Download all chnages from the branch and merge with head.</i></small><dd>
+</dl>
