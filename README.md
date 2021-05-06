@@ -347,3 +347,16 @@ msgs. --decorate adds names of branches or tags of commit.</i></small><dd>
   <dt>57. <code>git pull 'REMOTE_NAME' 'BRANCH_NAME'</span></code></dt>
   <dd><small><i>Download all chnages from the branch and merge with head.</i></small><dd>
 </dl>
+
+> **GIT RM & MV**
+---
+
+<dl>
+  <dt>58. <code>git rm 'FILE_NAME'</span></code></dt>
+  <dd><small><i>Delete the file from project and stage the removal for commit.</i></small><dd>
+</dl>
+
+<dl>
+  <dt>59. <code>git mv 'EXISTING_PATH' 'NEW_PATH'</span></code></dt>
+  <dd><small><i>Change an existing file path and stage the move.</i></small><dd>
+</dl>
